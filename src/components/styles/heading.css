@@ -1,0 +1,5 @@
+img {
+  width: clac(85px - 20px);
+  height: 65px;
+  /* padding-left: 20px; */
+}

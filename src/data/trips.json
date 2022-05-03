@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/travel9.jpeg",
+    "alt": "Greece",
+    "name": "Greece",
+    "button": "Explore"
+  },
+  {
+    "img": "../assets/images/travel2.jpg",
+    "alt": "Norway",
+    "name": "Norway",
+    "button": "Explore"
+  },
+  {
+    "img": "../assets/images/travel3.jpeg",
+    "alt": "Japan",
+    "name": "Japan",
+    "button": "Explore"
+  },
+  {
+    "img": "../assets/images/travel1.jpeg",
+    "alt": "Paris",
+    "name": "Paris",
+    "button": "Explore"
+  }
+]
